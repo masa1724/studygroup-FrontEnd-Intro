@@ -1,5 +1,3 @@
-# studygroup-FrontEnd-Intro
-
 # Overview
 フロントエンド技術である```HTML```、```CSS```、```JavaScript```の初学者向けへ学習支援を行います。
 
